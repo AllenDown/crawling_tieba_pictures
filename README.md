@@ -1,2 +1,2 @@
-# grabing_tieba_pictures
+# crawling_tieba_pictures
 A tool grabing the pictures of baidutieba, we can use it to dowanload the pictures of one talk in the baidutieba automatically,through compiling the properties.txt,we can setting pages where we want to download the pictures. 
